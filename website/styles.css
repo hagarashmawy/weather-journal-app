@@ -1,0 +1,18 @@
+html {
+  background-color: aqua;
+}
+h1 {
+  color: black;
+  font-size: 60px;
+}
+#entry-holder {
+  background-color: fuchsia;
+}
+#zip::placeholder {
+  color: blue;
+  box-sizing: border-box;
+}
+#generate {
+  padding-block: 10px;
+  padding-inline: 20px;
+}
